@@ -1,1 +1,1 @@
-This is the Hello World from the git tutorial.
+This is the Hello World from the git tutori
